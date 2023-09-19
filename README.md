@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @srykrnm
 - 👀 I’m interested in cs, physics ...
 - 🌱 I’m currently learning DS, ML
+-  and i use arch btw.
 
 <!---
 srykrnm/srykrnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
